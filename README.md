@@ -173,13 +173,15 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **Rehman Ahmad**
 AI Developer Intern — TechNexus Virtual University
+**Aasiyah Ali Syed**
+AI Developer Intern — TechNexus Virtual University
 
 [![GitHub](https://img.shields.io/badge/GitHub-RehmanAhmad333-black?style=flat&logo=github)](https://github.com/RehmanAhmad333)
-
+[![GitHub](https://img.shields.io/badge/GitHub-BinteAtif-black?style=flat&logo=github)](https://github.com/BinteAtif)
 ---
 
 *Built with dedication during AI Developer Internship* 🚀
